@@ -1,0 +1,160 @@
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.img1 {
+    width: 80%;
+}
+
+.why {
+    background: url('https://www.firstfiddle.in/assets/images/bannerabout.jpg');
+    width: 100%;
+}
+
+.c {
+    padding: 100px 20px;
+}
+
+footer {
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+
+.F {
+    background: black;
+    height: 100px;
+}
+
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.moblogo {
+    display: none;
+
+}
+
+/* about css */
+.ab{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 2.5rem;
+}
+.e{
+    margin-top: 44px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    padding-right: 0px;
+    text-align: justify !important;
+    color: #000000;
+    font-size: 16px;
+}
+.img2{
+    width: 100%;
+}
+.sky {
+    background: url('https://www.firstfiddle.in/assets/images/gamebanner.jpg');
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.f {
+    padding: 100px 60px;
+}
+.ml{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 2px;
+    font-size: 2.8rem;
+}
+.g{
+    line-height: 40px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: 'Montserrat',sans-serif;
+    text-align: center!important;
+}
+.img-title{
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0%;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+.our-story{
+    font-family: initial;
+    color: white;
+    font-size: 70px;
+}
+/* about css end */
+/* our team start */
+
+.box{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    margin-top: 20px;
+}
+.box content{
+    padding: 20px;
+    margin-bottom: 20px;
+    bottom: 0;
+    z-index: 1;
+}
+@media(max-width:768px) {
+    .moblogo {
+        display: block;
+
+    }
+
+    .weblogo {
+        display: none;
+
+    }
+
+    .navbar {
+        background: #fbac1b !important;
+
+    }
+
+    .img1 {
+        width: 100%;
+    }
+}
+ 
